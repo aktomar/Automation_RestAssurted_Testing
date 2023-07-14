@@ -1,0 +1,9 @@
+{
+      "id":"2" ,
+      "name":"Akshay",
+      "location": "Bareilly",
+      "courses": [
+        "java",
+        "c++"
+      ]
+}
